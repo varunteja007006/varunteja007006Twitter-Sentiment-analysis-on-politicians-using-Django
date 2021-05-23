@@ -19,7 +19,8 @@ Why vscode ? ....Because you can download extensions and most importantly you ca
 How to use Django?....
 step 1: When you download and extract the zip file, go through the directory untill you find manage.py.
 step 2: Once in there , right click your mouse and open with vsode...now in vs code open terminal ( ctrl + ~ ).. Type " **python manage.py runserver** "
-#What do you get to use in this project?
+
+I guess it didn't run on first try..maybe a few setup is left..let me guide you through it..
 
 You get to use only sentiment analysis for now.
 
